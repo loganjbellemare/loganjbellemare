@@ -1,4 +1,13 @@
-### Hi there 👋
+### Riolu coded™
+
+- Prounouns: He/They
+- I'm currently working on graduating from Chegg Skills' Software Development Flex Program and a prototype dating sim!
+- I'm currently learning Figma, React, JavaScript, SQL, web/game animation, web design
+- I'm looking to collaborate with any skilled game devs! I have lots of ideas, but little knowledge on implementation!
+- How to reach me: loganbellemare444@gmail.com or loganbellemare444 on LinkedIn
+- Fun fact: コベニは最高の女の子です。
+
+
 
 <!--
 **loganjbellemare/loganjbellemare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
